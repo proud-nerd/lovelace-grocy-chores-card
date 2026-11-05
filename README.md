@@ -1,5 +1,9 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
+# Disclamer
+
+For now, this is only a fork of the original card over at [isabellaalstrom/lovelace-grocy-chores-card](https://github.com/isabellaalstrom/lovelace-grocy-chores-card) to get rid of the warning in Home Assistant about an archived card and to be ready to maybe make some changes in the future.
+
 # grocy-chores-card
 
 A Lovelace custom card for [custom component Grocy](https://github.com/custom-components/grocy) in Home Assistant.
